@@ -11,7 +11,6 @@ function App() {
             <li><a href="#inicio">Inicio</a></li>
             <li><a href="#sobre">Sobre mí</a></li>
             <li><a href="#proyectos">Proyectos</a></li>
-            <li><a href="#tetris">Tetris</a></li>
             <li><a href="#habilidades">Habilidades</a></li>
             <li><a href="#contacto">Contacto</a></li>
           </ul>
@@ -66,8 +65,6 @@ function App() {
             </article>
           </div>
         </section>
-
-        <Tetris />
 
         <section id="habilidades" className="habilidades">
           <h2>Habilidades</h2>
